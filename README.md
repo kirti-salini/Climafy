@@ -2,7 +2,7 @@
 
 This is a simple React application built with Vite that fetches weather updates for various cities using the OpenWeatherMap API.
 
-![image](https://github.com/user-attachments/assets/1849badf-b0ee-4347-9d88-4bf7a667c3d6)
+![image](https://github.com/user-attachments/assets/4613c7c3-e339-4614-9d12-c8e382cbbd23)
 
 
 ## Features
