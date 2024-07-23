@@ -1,8 +1,18 @@
-# React + Vite
+# React Vite Weather App(Climafy)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application built with Vite that fetches weather updates for various cities using the OpenWeatherMap API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetch and display current weather information for a specified city.
+- Display temperature, humidity, weather conditions, and more.
+- User-friendly interface with search functionality.
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/kirti-salini/Climafy
+   cd climafy
+
